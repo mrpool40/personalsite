@@ -1,0 +1,120 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+h1{
+  width: 40%;
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;
+  color: #66BFBF;
+}
+.top-cont{
+  padding-top: 100px;
+  background-color: #E8FFFF;
+  position: relative;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.cloud{
+  position: absolute;
+  right: 350px;
+  top: 50px;
+
+}
+ P{
+  font-weight: bold;
+}
+.top-cont p{
+  font-size: 1.2rem;
+  color: #66BFBF;
+
+}
+
+.skill-row img{
+  width: 36%;
+
+
+  border-radius: 2rem;
+}
+h2{
+  font-weight: bolder;
+  font-family: sans-serif;
+  color: #66BFBF;
+
+
+}
+.profile img{
+  padding-top: 5rem;
+
+}
+h3{
+  color: #11999E;
+}
+.bottom-container a{
+  text-decoration: none;
+  color: white;
+  font-weight: bolder;
+  padding: 0 2rem 0 2rem;
+  font-weight: 900;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 80px auto;
+  text-align: left;
+  line-height: 2;
+}
+.web{
+  float: left;
+  margin-right: 2rem;
+
+}
+.java{
+  float: right;
+  margin-left: 2rem;
+}
+.profile p{
+  width: 40%;
+  margin: 0 auto;
+  line-height: 2
+}
+.skills h2{
+
+  margin-bottom:0;
+  margin-top: 5rem;
+}
+hr{
+
+  width: 10%;
+  border-radius: 100px;
+
+}
+.middle-container p{
+  margin-bottom: 4rem;
+}
+.contact-me{
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 2rem;
+}
+.btn{
+  text-decoration: none;
+  color: #EAF6F6;
+  font-weight: 900;
+  background-color: #11999E;
+  padding: 0.8rem;
+  border-radius: 0.4rem;
+}
+.bottom-container p{
+  color: #EAF6F6;
+}
